@@ -1,3 +1,8 @@
+这里把activemq 解释得很好
+http://blog.csdn.net/super_scan/article/details/39839145
+
+
+
 # activemq-parent
 centos 7 安装 activemq
 1.系统必须先安装jdk,因为activemq是一个web应用
