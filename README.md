@@ -45,18 +45,6 @@ vi activemq
 
 5.1输入以下内容
 
-#!/bin/sh  
-#  
-# /etc/init.d/activemq  
-# chkconfig: 345 63 37  
-# description: activemq servlet container.  
-# processname: activemq 5.14.1  
-  
-# Source function library.  
-#. /etc/init.d/functions  
-# source networking configuration.  
-#. /etc/sysconfig/network  
-  
 export JAVA_HOME=/usr/lib/jvm/jdk1.8.0_121 
 export CATALINA_HOME=/usr/lo:qcal/service/apache-activemq-5.13.0
   
