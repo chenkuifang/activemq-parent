@@ -31,7 +31,7 @@ firewall-cmd --permanent --zone=public --add-port=61616/tcp
 firewall-cmd --reload
 
 4. 进行访问界面
-http://192.168.211.137:8161/admin/
+http://安装的IP:8161/admin/
 默认账户 admin = amdin
 
 
